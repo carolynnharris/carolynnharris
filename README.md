@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**carolynnharris/carolynnharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👩‍🔬 I'm an stable isotope geochemist, astrobiologist, and polar scientist   
 - 🎓 I have a M.S. in Marine Science from UT Austin (2015) and a B.A. in Biology from Bates College (2011)
 - 🍾 I'm finishing up my PhD at Dartmouth College (graduating in June 2025!)
